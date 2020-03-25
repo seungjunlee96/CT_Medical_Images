@@ -7,6 +7,7 @@ This dataset contain **CT images from cancer imaging archive with contrast and p
 ## Visualization
 Visualization of CT images
 ![dicom_sample](/dicom_sample.png)	
+![tiff](/tiff_sample.png)
 ### Data format for medical images: DICOM , TIFF 
 The images data are provided both in **DICOM** and **TIFF** formats.<br>
 The images data files are named with a naming convention allowing us to identify some meta-data about the images.
