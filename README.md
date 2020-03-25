@@ -1,3 +1,8 @@
-# CT_Medical_Image
+# CT_Medical_Images
 
-[CT Medical Images](https://www.kaggle.com/kmader/siim-medical-images)
+## Dataset 
+[CT Medical Images](https://www.kaggle.com/kmader/siim-medical-images) from kaggle
+Description: CT images from cancer imaging archive with contrast and patient age
+
+## TO DO
+- Visualization
