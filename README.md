@@ -20,9 +20,10 @@ The images data files are named with a naming convention allowing us to identify
 
 
 ### Dependency:
-  `pip3 install --user pydicom`
-  `pip3 install --user dicom_numpy`
-
+  ```
+  pip3 install --user pydicom
+  pip3 install --user dicom_numpy
+  ```
 
 # references
 - https://en.wikipedia.org/wiki/DICOM
