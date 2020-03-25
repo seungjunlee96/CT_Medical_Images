@@ -17,9 +17,8 @@ The images data files are named with a naming convention allowing us to identify
 - integration of medical imaging devices (radiological scanners), servers , network hardware ,and Picture Archiving and Communication Systems (PACS).
 
 
-Dependency: <br>
+Dependency: [pydicom](https://pydicom.github.io/) <br>
   `pip install pydicom`
-  Pure python package for DICOM medical file reading and writing
 
 
 ## TO DO
