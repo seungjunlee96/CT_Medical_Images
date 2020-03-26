@@ -9,11 +9,9 @@ This dataset contain **CT images from cancer imaging archive with contrast and p
 Example Visualization of CT images <br>
 please refer to `visualization.py`
 1. Example of DICOM file visualization 
-![dicom_sample](/dicom_sample.png)	
-<br>
+![dicom_sample](/dicom_sample.png)<br>
 2. Example of TIFF file visualization <br>
-![tiff](/tiff_sample.png)
-
+![tiff_sample](/tiff_sample.png)<br>
 # Explanation on Standard Data formats for medical images: DICOM , TIFF 
 The images data are provided both in **DICOM** and **TIFF** formats.<br>
 The images data files are named with a naming convention allowing us to identify some meta-data about the images.
