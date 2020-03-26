@@ -7,7 +7,7 @@ This dataset contain **CT images from cancer imaging archive with contrast and p
 <br>
 # Example
 Example Visualization of CT images <br>
-please refer to `visualization.py`.
+please refer to `visualization.py`
 1. Example of DICOM file visualization 
 ![dicom_sample](/dicom_sample.png)	
 <br>
