@@ -1,14 +1,19 @@
 # CT_Medical_Images
-
-## Dataset 
+This repo illustrates some examples that show how to deal with medical images.
+<br>
+# Dataset 
 [CT Medical Images](https://www.kaggle.com/kmader/siim-medical-images) from kaggle.<br>
 This dataset contain **CT images from cancer imaging archive with contrast and patient age**
-
-## Visualization
-Visualization of CT images
+<br>
+# Example
+Example Visualization of CT images <br>
+please refer to `visualization.py`.
+1. Example of DICOM file visualization 
 ![dicom_sample](/dicom_sample.png)	
+<br>
+2. Example of DICOM file visualization 
 ![tiff](/tiff_sample.png)
-### Data format for medical images: DICOM , TIFF 
+# Data format for medical images: DICOM , TIFF 
 The images data are provided both in **DICOM** and **TIFF** formats.<br>
 The images data files are named with a naming convention allowing us to identify some meta-data about the images.
 
