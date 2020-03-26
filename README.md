@@ -3,8 +3,17 @@ This repo illustrates some examples that show how to deal with medical images.
 <br>
 # Dataset 
 [CT Medical Images](https://www.kaggle.com/kmader/siim-medical-images) from kaggle.<br>
-This dataset contain **CT images from cancer imaging archive with contrast and patient age**
-<br>
+This dataset contain **CT images from cancer imaging archive with contrast and patient age.**
+```
+  /data
+  /data/full_archive.npz
+  /data/idx.npy
+  /data/image.npy
+  /data/overview.csv
+  /data/data
+  /data/dicom_dir
+  /data/tiff_images
+```
 # Example
 Example Visualization of CT images <br>
 please refer to `visualization.py`
